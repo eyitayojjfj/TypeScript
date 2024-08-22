@@ -1,0 +1,15 @@
+.component{
+  text-align: center;
+  margin-top: 250px;
+}
+.component h1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 60px;
+}
+.component p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 35px;
+}
+body{
+  background-color: peru;
+}
